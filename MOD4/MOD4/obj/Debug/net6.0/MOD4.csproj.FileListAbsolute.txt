@@ -1,0 +1,15 @@
+E:\MOD4_1302213035\MOD4\MOD4\bin\Debug\net6.0\MOD4.exe
+E:\MOD4_1302213035\MOD4\MOD4\bin\Debug\net6.0\MOD4.deps.json
+E:\MOD4_1302213035\MOD4\MOD4\bin\Debug\net6.0\MOD4.runtimeconfig.json
+E:\MOD4_1302213035\MOD4\MOD4\bin\Debug\net6.0\MOD4.dll
+E:\MOD4_1302213035\MOD4\MOD4\bin\Debug\net6.0\MOD4.pdb
+E:\MOD4_1302213035\MOD4\MOD4\obj\Debug\net6.0\MOD4.csproj.AssemblyReference.cache
+E:\MOD4_1302213035\MOD4\MOD4\obj\Debug\net6.0\MOD4.GeneratedMSBuildEditorConfig.editorconfig
+E:\MOD4_1302213035\MOD4\MOD4\obj\Debug\net6.0\MOD4.AssemblyInfoInputs.cache
+E:\MOD4_1302213035\MOD4\MOD4\obj\Debug\net6.0\MOD4.AssemblyInfo.cs
+E:\MOD4_1302213035\MOD4\MOD4\obj\Debug\net6.0\MOD4.csproj.CoreCompileInputs.cache
+E:\MOD4_1302213035\MOD4\MOD4\obj\Debug\net6.0\MOD4.dll
+E:\MOD4_1302213035\MOD4\MOD4\obj\Debug\net6.0\refint\MOD4.dll
+E:\MOD4_1302213035\MOD4\MOD4\obj\Debug\net6.0\MOD4.pdb
+E:\MOD4_1302213035\MOD4\MOD4\obj\Debug\net6.0\MOD4.genruntimeconfig.cache
+E:\MOD4_1302213035\MOD4\MOD4\obj\Debug\net6.0\ref\MOD4.dll
